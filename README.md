@@ -2,7 +2,7 @@ Developed a Java-based interactive Maze Solver application using BFS algorithm a
 
 ## Download & Run
 
-- Download the `MazeSolver.jar` file from the [releases](https://github.com/Debangshu21/MazeSolver-mini/MazeSolver/releases).
+- Download the `MazeSolver.jar` file from the [releases](https://github.com/Debangshu21/MazeSolver-mini/MazeSolver/releases/MazeSolver.zip).
 - Run it using:
 
   ```bash
